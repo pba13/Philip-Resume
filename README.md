@@ -19,7 +19,6 @@ A  html skeleton
 <h5><strong>Hobbies & Interests</strong></h5><p>I am engaged at my local church, where I volunteer as a media assistant in the technical unit. I always seek avenue to learn new things by volunteering and being involve in productive ventures that brings innovation and social intervention. I join productive discussion about affairs of the state, travelling, creative writing, reading and a sport enthusiast.</p>
 </div>
 <h6><strong><p>Referees are available on request</strong></h6>
-</div>
-<img scr="internal shared storage/download/vlc/image older">
+<img scr="internal shared storage/download/vlc/image folder/philip.jpg">
 </body>
 </html>
