@@ -20,5 +20,7 @@ A  html skeleton
 </div>
 <h6><strong><p>Referees are available on request</strong></h6>
 <a href="https://ibb.co/Bf6qZn5"><img src="https://i.ibb.co/qDgksJ3/picture.jpg" alt="picture" border="0"></a>
+<a href=mailto:akintunde.philip@yahoo.com?subject="Enquiries">Click here to send us an email!!!</a>
+<a href="https://facebook.com/Greatphils">Click here to connect on facebook!!!</a>
 </body>
 </html>
